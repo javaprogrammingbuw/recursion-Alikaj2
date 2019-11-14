@@ -15,6 +15,7 @@ public class Factorial {
 	
 	public static void main (String []args) {
 		System.out.println(calcFactorial(5));
+		System.out.println("Did I commit?");
 		
 	}
 }
